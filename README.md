@@ -6,9 +6,10 @@ We will construct a new MastermindGUIView that is a javafx.application.Applicati
 
 When you win or lose, display a modal (showAndWait()) Alert:
 
-![]()
+![board.png](board.png)
 
 After the game is over, do not allow any further guesses until “Restart” is clicked.
+![alert.png](alert.png)
 
 ## Implementation
 ### Main Board
